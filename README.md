@@ -83,18 +83,7 @@ The application provides results in the form of Key Performance Indicators (KPIs
 
 In addition, the app offers suggestions based on these KPIs. 
 For instance, if the monthly revenue growth falls below a predefined threshold, it may recommend strategies such as, "Focus on targeting low-spending customers with personalized marketing campaigns to increase their spending further." These recommendations aim to improve revenue and user engagement.
-## Results
 
-The application provides results in the form of Key Performance Indicators (KPIs), including:
-
-1. Total Revenue: To measure the overall income.
-2. Average Spend: To gauge typical user spending.
-3. Most Popular Category: Identifying user preferences.
-4. Monthly Revenue Growth : Compare the monthly revenue and their growth
-
-
-In addition, the app offers suggestions based on these KPIs. 
-For instance, if the monthly revenue growth falls below a predefined threshold, it may recommend strategies such as, "Focus on targeting low-spending customers with personalized marketing campaigns to increase their spending further." These recommendations aim to improve revenue and user engagement.
 ## 🔗 About me 
 [![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Akshay-Pawar-DS?tab=repositories)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshaympawar)
